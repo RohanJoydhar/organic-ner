@@ -1,0 +1,79 @@
+Acrylic acid, an organic compound with the formula C₃H₄O₂, is a colorless liquid known for its pungent odor. Commonly polymerized to produce superabsorbent polymers, it often utilizes catalysts like potassium persulfate. Key properties include a boiling point of 141 °C and high reactivity, making it essential in various industrial applications.
+[
+    {"label": "organic chemicals", "word": "Acrylic acid", "start": 0, "end": 12},
+    {"label": "organic chemicals", "word": "C₃H₄O₂", "start": 35, "end": 40},
+    {"label": "catalyst", "word": "potassium persulfate", "start": 106, "end": 125},
+    {"label": "property values", "word": "141 °C", "start": 162, "end": 168}
+]
+
+Salicylic acid, an organic compound with the formula C₇H₆O₃, is a colorless crystalline substance known for its medicinal properties. Commonly used in acne treatments, it often involves catalysts like sulfuric acid during synthesis. Key properties include a melting point of 158 °C and effective anti-inflammatory effects, making it widely utilized.
+[
+    {"label": "organic chemicals", "word": "Salicylic acid", "start": 0, "end": 14},
+    {"label": "organic chemicals", "word": "C₇H₆O₃", "start": 37, "end": 42},
+    {"label": "catalyst", "word": "sulfuric acid", "start": 113, "end": 126},
+    {"label": "property values", "word": "158 °C", "start": 168, "end": 173}
+]
+
+Hyaluronic acid, an organic compound with the formula C₁₄H₂₁N₁₁O₁₁, is a key component in connective tissues and skin hydration. Often synthesized using catalysts like sodium hydroxide, it boasts impressive properties, including a high molecular weight of 1,000,000 Da, making it vital in dermatology and cosmetic applications.
+[
+    {"label": "organic chemicals", "word": "Hyaluronic acid", "start": 0, "end": 14},
+    {"label": "organic chemicals", "word": "C₁₄H₂₁N₁₁O₁₁", "start": 37, "end": 44},
+    {"label": "catalyst", "word": "sodium hydroxide", "start": 106, "end": 122},
+    {"label": "property values", "word": "1,000,000 Da", "start": 179, "end": 192}
+]
+
+Butene, an organic compound with the formula C₄H₈, is a colorless gas used in the production of polymers and gasoline. Catalysts such as palladium are often employed in its hydrogenation processes. Key properties include a boiling point of -1 °C and its role as a crucial feedstock in petrochemical industries.
+[
+    {"label": "organic chemicals", "word": "Butene", "start": 0, "end": 6},
+    {"label": "organic chemicals", "word": "C₄H₈", "start": 36, "end": 40},
+    {"label": "catalyst", "word": "palladium", "start": 100, "end": 109},
+    {"label": "property values", "word": "-1 °C", "start": 172, "end": 176}
+]
+
+Glycolic acid, an organic compound with the formula C₂H₄O₃, is a colorless, odorless liquid widely used in skincare products for its exfoliating properties. Catalysts like sulfuric acid are commonly used in its synthesis. Key properties include a melting point of 76 °C and its effectiveness in promoting skin rejuvenation.
+[
+    {"label": "organic chemicals", "word": "Glycolic acid", "start": 0, "end": 13},
+    {"label": "organic chemicals", "word": "C₂H₄O₃", "start": 36, "end": 41},
+    {"label": "catalyst", "word": "sulfuric acid", "start": 110, "end": 123},
+    {"label": "property values", "word": "76 °C", "start": 179, "end": 184}
+]
+
+Ethyl alcohol, an organic compound with the formula C₂H₅OH, is a colorless liquid commonly used as a solvent and in beverages. It is often produced via fermentation, utilizing catalysts like yeast. Key properties include a boiling point of 78.37 °C and its role as a key ingredient in many industries.
+[
+    {"label": "organic chemicals", "word": "Ethyl alcohol", "start": 0, "end": 12},
+    {"label": "organic chemicals", "word": "C₂H₅OH", "start": 34, "end": 40},
+    {"label": "catalyst", "word": "yeast", "start": 115, "end": 120},
+    {"label": "property values", "word": "78.37 °C", "start": 177, "end": 185}
+]
+
+Benzene, an organic compound with the formula C₆H₆, is a colorless liquid known for its sweet odor and flammability. It serves as a precursor in various chemical syntheses, often utilizing catalysts like aluminum chloride in electrophilic aromatic substitutions. Key properties include a boiling point of 80.1 °C, making it essential in industry.
+[
+    {"label": "organic chemicals", "word": "Benzene", "start": 0, "end": 7},
+    {"label": "organic chemicals", "word": "C₆H₆", "start": 34, "end": 39},
+    {"label": "catalyst", "word": "aluminum chloride", "start": 110, "end": 126},
+    {"label": "property values", "word": "80.1 °C", "start": 177, "end": 183}
+]
+
+Acetone, an organic compound with the formula C₃H₆O, is a colorless, volatile liquid commonly used as a solvent in laboratories and industries. It is often produced via the dehydrogenation of isopropanol using catalysts like zinc oxide. Key properties include a boiling point of 56.05 °C, making it highly effective in various applications.
+[
+    {"label": "organic chemicals", "word": "Acetone", "start": 0, "end": 7},
+    {"label": "organic chemicals", "word": "C₃H₆O", "start": 35, "end": 40},
+    {"label": "catalyst", "word": "zinc oxide", "start": 114, "end": 124},
+    {"label": "property values", "word": "56.05 °C", "start": 179, "end": 186}
+]
+
+Benzoic acid, an organic compound with the formula C₇H₆O₂, is a white crystalline solid known for its preservative properties. It is commonly synthesized using catalysts like sulfuric acid in the reaction of toluene and carbon dioxide. Key properties include a melting point of 122 °C, making it useful in food preservation.
+[
+    {"label": "organic chemicals", "word": "Benzoic acid", "start": 0, "end": 12},
+    {"label": "organic chemicals", "word": "C₇H₆O₂", "start": 35, "end": 40},
+    {"label": "catalyst", "word": "sulfuric acid", "start": 104, "end": 117},
+    {"label": "property values", "word": "122 °C", "start": 180, "end": 186}
+]
+
+Phenol, an organic compound with the formula C₆H₅OH, is a colorless, viscous liquid known for its antiseptic properties. It is typically produced via the catalytic hydroxylation of benzene using catalysts like sulfuric acid. Key properties include a melting point of 40.7 °C, making it significant in pharmaceuticals and chemical manufacturing.
+[
+    {"label": "organic chemicals", "word": "Phenol", "start": 0, "end": 6},
+    {"label": "organic chemicals", "word": "C₆H₅OH", "start": 30, "end": 36},
+    {"label": "catalyst", "word": "sulfuric acid", "start": 124, "end": 137},
+    {"label": "property values", "word": "40.7 °C", "start": 188, "end": 194}
+]
